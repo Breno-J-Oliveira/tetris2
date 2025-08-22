@@ -10,55 +10,59 @@
 
 ---
 
-## Índice
+## 🎯 Sobre o Projeto
 
-1. [Sobre o Projeto](#sobre-o-projeto)
-2. [Funcionalidades](#funcionalidades)
-3. [Demonstração](#demonstração)
-4. [Estrutura do Projeto](#estrutura-do-projeto)
-5. [Como Executar](#como-executar)
-6. [Boas Práticas e Habilidades Demonstradas](#boas-práticas-e-habilidades-demonstradas)
-7. [Conclusão](#conclusão)
-8. [Autor](#autor)
+**Tetris 2** é uma versão moderna do clássico jogo Tetris, totalmente desenvolvida com **HTML5, CSS3 e JavaScript puro**.  
+O projeto demonstra habilidades avançadas de **front-end** e lógica de jogos no navegador, incluindo manipulação de canvas, pontuação dinâmica e controle de dificuldade.
 
----
+Principais objetivos do projeto:
 
-## Sobre o Projeto
-
-Tetris 2 é uma **versão customizada do clássico jogo Tetris**, desenvolvida utilizando **HTML5, CSS3 e JavaScript puro**.  
-O projeto demonstra habilidades de **front-end**, lógica de jogos, manipulação de canvas e desenvolvimento interativo no navegador.  
-
-O objetivo principal é criar um **jogo funcional e visualmente agradável**, com controles de teclado, pontuação, níveis e ajuste de dificuldade.
+- Criar um **jogo interativo e funcional** com renderização gráfica no navegador  
+- Aplicar **CSS moderno** para efeitos visuais, sombras e gradientes  
+- Desenvolver lógica de **movimentação, rotação e colisão** de peças  
+- Permitir **ajuste de dificuldade** via slider
 
 ---
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
-- Área de jogo utilizando `<canvas>` com **renderização gráfica de blocos**  
-- Controles de teclado para movimentação e rotação das peças (`ArrowLeft`, `ArrowRight`, `ArrowDown`, `Q` e `W`)  
-- Sistema de **pontuação e níveis**, que ajusta a velocidade das peças automaticamente  
-- Ajuste de dificuldade com controle deslizante (`range input`)  
-- Visual estilizado com **gradiente de fundo, bordas e efeitos de brilho**  
-- Lógica de colisão, fusão das peças e remoção de linhas completas
-
----
-
-## Demonstração
-
-**Tela de Jogo:**
-
-- Blocos coloridos representando diferentes peças
-- Pontuação e nível atual
-- Controle de velocidade via slider  
-
-> Para ver o jogo em funcionamento, abra o `index.html` em qualquer navegador moderno.
+- Canvas de jogo estilizado com bordas e efeitos de brilho  
+- Movimentação das peças com **teclas de seta**  
+- Rotação das peças usando **Q (anti-horário) e W (horário)**  
+- Sistema de **pontuação e níveis** com velocidade crescente  
+- Slider para **ajuste de dificuldade** em tempo real  
+- Reset automático ao perder, mantendo pontuação e progresso
 
 ---
 
-## Estrutura do Projeto
+## 📊 Controles do Jogo
+
+| Ação                   | Tecla       |
+|------------------------|------------|
+| Mover peça para esquerda | `ArrowLeft` |
+| Mover peça para direita  | `ArrowRight` |
+| Acelerar queda           | `ArrowDown` |
+| Rotação anti-horária     | `Q`        |
+| Rotação horária          | `W`        |
+
+---
+
+## 🎮 Demonstração
+
+**Tela do Jogo:**
+
+- Blocos coloridos representando peças distintas  
+- Pontuação e nível exibidos ao lado do canvas  
+- Ajuste de velocidade com slider  
+
+> Para visualizar, abra o `index.html` em qualquer navegador moderno.
+
+---
+
+## 🗂 Estrutura do Projeto
 
 ```plaintext
 Tetris-2/
 │
-├── index.html       # Página principal do jogo
+├── index.html       # Página principal do jogo, incluindo HTML, CSS e JS
 ├── README.md        # Documentação do projeto
