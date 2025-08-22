@@ -11,6 +11,20 @@
 
 ---
 
+## 📑 Índice
+
+1. [Sobre o Projeto](#sobre-o-projeto)  
+2. [Funcionalidades](#-funcionalidades)  
+3. [Exemplo de Pontuação em Tabela ASCII](#-exemplo-de-pontuação-em-tabela-ascii-python)  
+4. [Controles do Jogo](#-controles-do-jogo)  
+5. [Estrutura do Projeto](#-estrutura-do-projeto)  
+6. [Como Executar](#-como-executar)  
+7. [Boas Práticas e Habilidades Demonstradas](#-boas-práticas-e-habilidades-demonstradas)  
+8. [Conclusão](#-conclusão)  
+9. [Contatos e Redes Sociais](#-contatos-e-redes-sociais)  
+
+---
+
 ## 🎯 Sobre o Projeto
 
 **Tetris 2** é uma versão moderna do clássico jogo Tetris, totalmente desenvolvida com **HTML5, CSS3 e JavaScript puro**.  
@@ -26,10 +40,6 @@ O projeto demonstra habilidades avançadas de **front-end**, lógica de jogos no
 - Sistema de **pontuação e níveis** com velocidade crescente  
 - Slider para **ajuste de dificuldade** em tempo real  
 - Reset automático ao perder, mantendo pontuação e progresso  
-
----
-
-## 📊 Exemplo de Pontuação em Tabela ASCII (Python)
 
 ---
 
