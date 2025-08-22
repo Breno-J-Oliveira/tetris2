@@ -52,7 +52,7 @@ O projeto demonstra habilidades avançadas de **front-end**, lógica de jogos no
 
 ---
 
-🎮 Controles do Jogo
+##🎮 Controles do Jogo
 Ação	Tecla
 Mover peça para esquerda	⬅️ ArrowLeft
 Mover peça para direita	➡️ ArrowRight
@@ -62,7 +62,7 @@ Rotação horária	W
 
 ---
 
-💡 Boas Práticas e Habilidades Demonstradas
+##💡 Boas Práticas e Habilidades Demonstradas
 
 🎨 Canvas API: renderização de blocos coloridos e grade de jogo
 
@@ -80,12 +80,12 @@ Rotação horária	W
 
 ---
 
-🏆 Conclusão
+##🏆 Conclusão
 
 Tetris 2 é um exemplo de projeto front-end completo, combinando design, interatividade e lógica de programação.
 Ideal para portfólios, demonstração de habilidades em HTML, CSS, JavaScript e manipulação de dados.
 
 ---
 
-👤 Contatos e Redes Sociais
+##👤 Contatos e Redes Sociais
 <p align="center"> <a href="https://github.com/Breno-J-Oliveira" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/breno-j-oliveira-672619352/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.instagram.com/seu-perfil" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="https://x.com/seu-perfil" target="_blank"> <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"> </a> </p> ```
